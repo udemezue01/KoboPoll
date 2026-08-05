@@ -1,0 +1,8 @@
+<template>
+
+
+<hero/>
+
+
+
+</template>
