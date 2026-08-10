@@ -1,8 +1,8 @@
 <template>
-  <div class="h-full">
+  <div class="h-full font-sans">
     <navbar/>
 
-    
+
 
     <slot />
 

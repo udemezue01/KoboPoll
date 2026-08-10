@@ -1,7 +1,15 @@
 <template>
 
 
-<hero/>
+<div>
+
+<LandingHero/>
+
+<LandingCategories/>
+
+<LandingFeatured/>
+
+</div>
 
 
 
