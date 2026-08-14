@@ -13,7 +13,7 @@
           </svg>
           Highest Payouts Today
         </div>
-        <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight">Featured Healthcare Surveys</h2>
+        <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight"> Healthcare </h2>
         <p class="text-gray-500 mt-1">High-priority health sector research with instant payout status.</p>
       </div>
 

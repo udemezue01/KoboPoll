@@ -12,7 +12,7 @@
           </svg>
           Highest Payouts Today
         </div>
-        <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight">Featured Tech Surveys</h2>
+        <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight"> Technology </h2>
         <p class="text-gray-500 mt-1">High-priority market research surveys from leading tech companies in Nigeria.</p>
       </div>
 

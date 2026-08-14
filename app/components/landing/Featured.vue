@@ -11,7 +11,7 @@
           </svg>
           Highest Payouts Today
         </div>
-        <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight">Featured Surveys</h2>
+        <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight">Featured </h2>
         <p class="text-gray-500 mt-1">High-priority market research surveys with instant payout status.</p>
       </div>
 
