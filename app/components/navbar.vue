@@ -123,13 +123,13 @@ const isMobileMenuOpen = ref(false)
 
       <div class="pt-4 border-t border-gray-200/80 flex flex-col gap-2">
         <NuxtLink 
-          to="/login" 
+          to="/auth/login" 
           class="w-full text-center px-4 py-2.5 rounded-xl text-sm font-semibold text-gray-800 bg-gray-200/60 hover:bg-gray-200"
         >
           Sign In
         </NuxtLink>
         <NuxtLink 
-          to="/get-started" 
+          to="/auth/register" 
           class="w-full text-center px-4 py-2.5 rounded-xl text-sm font-semibold text-white bg-indigo-500 hover:bg-indigo-600 shadow-md"
         >
           Get Started
