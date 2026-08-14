@@ -1,5 +1,5 @@
 <template>
-  <section class="relative bg-gradient-to-b from-gray-50 to-white dark:from-gray-900 dark:to-gray-800 py-20 lg:py-28">
+  <section class="relative bg-taupe-50/90 py-20 lg:py-28">
     <div class="container mx-auto px-5 flex flex-col items-center text-center max-w-4xl">
       
       <!-- Marketplace Pill Badge -->

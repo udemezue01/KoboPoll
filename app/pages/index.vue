@@ -9,6 +9,16 @@
 
 <LandingFeatured/>
 
+<LandingTech/>
+
+<LandingGovernment/>
+
+<LandingHealth/>
+
+<LandingAgriculture/>
+
+
+
 </div>
 
 
