@@ -3,27 +3,27 @@
     <div class="container mx-auto px-5 flex flex-col items-center text-center max-w-4xl">
       
       <!-- Marketplace Pill Badge -->
-      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-indigo-50 dark:bg-indigo-950/60 border border-indigo-100 dark:border-indigo-800/50 mb-6">
+      <div class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-indigo-50 border border-indigo-100 mb-6">
         <span class="flex h-2 w-2 rounded-full bg-indigo-600 animate-pulse"></span>
-        <span class="text-xs font-semibold text-indigo-600 dark:text-indigo-400 uppercase tracking-wide">
+        <span class="text-xs font-semibold text-indigo-600 uppercase tracking-wide">
           Nigeria’s #1 Opinion Marketplace
         </span>
       </div>
 
       <!-- Main Headline -->
-      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 dark:text-white tracking-tight mb-6 leading-tight">
+      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-gray-900 tracking-tight mb-6 leading-tight">
         Find Paid Surveys. <br class="hidden sm:inline" />
-        <span class="text-indigo-600 dark:text-indigo-400">Get Paid Instantly.</span>
+        <span class="text-indigo-600">Get Paid Instantly.</span>
       </h1>
 
       <!-- Welcome / Subtitle Copy -->
-      <p class="text-lg sm:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mb-10 leading-relaxed">
+      <p class="text-lg sm:text-xl text-gray-600 max-w-2xl mb-10 leading-relaxed">
         Browse hundreds of live surveys from top brands, answer quick questions, and withdraw real cash directly to your bank account.
       </p>
 
       <!-- Centered Search / Action Form -->
       <div class="w-full max-w-2xl mb-8">
-        <form @submit.prevent class="flex flex-col sm:flex-row gap-2.5 p-2 bg-white dark:bg-gray-800 rounded-2xl shadow-xl border border-gray-100 dark:border-gray-700">
+        <form @submit.prevent class="flex flex-col sm:flex-row gap-2.5 p-2 bg-white rounded-2xl shadow-xl border border-gray-100">
           <div class="relative flex-grow">
             <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none text-gray-400">
               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -33,7 +33,7 @@
             <input 
               type="text" 
               placeholder="Search surveys by category, topic, or reward..." 
-              class="w-full pl-11 pr-4 py-3.5 bg-transparent text-gray-900 dark:text-white placeholder-gray-400 focus:outline-none text-base"
+              class="w-full pl-11 pr-4 py-3.5 bg-transparent text-gray-900 placeholder-gray-400 focus:outline-none text-base"
             />
           </div>
           <button 
@@ -45,7 +45,7 @@
         </form>
 
         <!-- Quick Tags -->
-        <div class="flex flex-wrap items-center justify-center gap-2 mt-4 text-xs text-gray-500 dark:text-gray-400">
+        <div class="flex flex-wrap items-center justify-center gap-2 mt-4 text-xs text-gray-500">
           <span class="font-medium">Popular:</span>
           <a href="#" class="hover:text-indigo-600 underline">FMCG & Retail</a> •
           <a href="#" class="hover:text-indigo-600 underline">Tech & Telecoms</a> •
