@@ -1,7 +1,7 @@
 <template>
 
 
-<div>
+<div class="bg-taupe-50/90">
 
 <LandingHero/>
 

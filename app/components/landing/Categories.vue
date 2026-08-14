@@ -1,5 +1,5 @@
 <template>
-  <section class="py-16 px-4 md:px-8 max-w-7xl mx-auto text-gray-600 dark:text-gray-300">
+  <section class="py-16 px-4 md:px-8 max-w-7xl mx-auto text-gray-600 bg-taupe-50/90">
     
     <!-- Section Header -->
     <div class="text-center max-w-3xl mx-auto mb-12">
