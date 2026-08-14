@@ -55,13 +55,13 @@ const isMobileMenuOpen = ref(false)
         <!-- Action Buttons -->
         <div class="hidden md:flex items-center gap-3">
           <NuxtLink 
-            to="/login" 
+            to="/auth/login" 
             class="text-sm font-semibold text-gray-700 hover:text-indigo-600 px-4 py-2.5 transition-colors"
           >
             Sign In
           </NuxtLink>
           <NuxtLink 
-            to="/get-started" 
+            to="/auth/register/" 
             class="inline-flex items-center gap-2 bg-indigo-500 hover:bg-indigo-600 text-white font-semibold text-sm px-5 py-2.5 rounded-xl shadow-md hover:shadow-indigo-500/20 transition-all duration-200"
           >
             Get Started
