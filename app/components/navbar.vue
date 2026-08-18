@@ -35,7 +35,7 @@ const isMobileMenuOpen = ref(false)
             Create a Survey
           </NuxtLink>
           <NuxtLink 
-            to="/polls" 
+            to="/survey" 
             class="text-gray-700 hover:text-indigo-600 transition-colors flex items-center gap-1"
           >
             <span class="relative flex h-2 w-2">
@@ -109,7 +109,7 @@ const isMobileMenuOpen = ref(false)
         Create a Survey
       </NuxtLink>
       <NuxtLink 
-        to="/polls" 
+        to="/survey" 
         class="block px-3 py-2.5 rounded-lg text-base font-medium text-gray-800 hover:bg-gray-200/50"
       >
         Live Polls 🔴
