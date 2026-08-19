@@ -17,6 +17,10 @@
 
 <LandingAgriculture/>
 
+<LandingCta/>
+
+<LandingFaqs/>
+
 
 
 </div>

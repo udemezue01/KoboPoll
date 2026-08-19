@@ -2,7 +2,7 @@
 
 <section class="text-gray-600 body-font">
 
-<h1> Featured section</h1>
+<h1> Banking</h1>
 
 </section>
 </template>
